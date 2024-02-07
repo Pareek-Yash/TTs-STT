@@ -1,4 +1,4 @@
-#!/home/remotessh/miniconda3/envs/testenv/bin/python
+#!/home/miniconda3/envs/testenv/bin/python
 # -*-coding:utf-8 -*-
 '''
 @File    :   app.py
